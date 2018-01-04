@@ -1,0 +1,5 @@
+convert NIR.pdf NIRjpg
+ls
+NIR.pdf
+NIR-1.jpg
+NIR-2.jpg
